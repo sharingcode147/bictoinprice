@@ -11,6 +11,7 @@
 <div class="container">
   <div class="row align-items-center mt-3">
     <div class="col-lg-4 col-xs-12 align-self-center">
+      <h2>VALOR BITCOIN</h2>
       <h3 id="crypto"></h3>
       <h5 id="cryptovar"></h5>
       <h5 id="cryptovarporcentage"></h5>

@@ -97,7 +97,7 @@ $(window).on('load', function () {
   var request = function request() {
     jQuery.ajax({
       type: 'GET',
-      url: "https://rest.coinapi.io/v1/exchangerate/BTC/USD?apikey=6EDF02AA-547D-4561-9B28-4A63841FCCEB",
+      url: "https://rest.coinapi.io/v1/exchangerate/BTC/USD?apikey=13D92790-289D-4A37-90FD-2BF6851C1F6A",
       success: function success(data) {
         postValueInDatabase(data);
       }
